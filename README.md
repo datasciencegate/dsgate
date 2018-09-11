@@ -1,2 +1,1 @@
-# dsgate
 ### Data Science Gate
